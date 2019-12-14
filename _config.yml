@@ -29,6 +29,8 @@ aux_links:
   "Circuitverse on GitHub":
     - "//github.com/CircuitVerse"
 
+repository: VijayAdhithya/Interactive-Book
+
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil
 
